@@ -12,3 +12,4 @@ Diseño orientado a objetos
 6. metodos
 7. metodos mutadores y acesores
 8. encapsulamiento
+9. visibilidad en los metodos

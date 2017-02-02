@@ -3,11 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package co.edu.sena.clases.visibilidad.paquete2;
-
-import co.edu.sena.clases.visibilidadmetodos.LLaveSeguridad;
-import co.edu.sena.clases.visibilidad.paquete1.Billetera;
-import co.edu.sena.clases.visibilidadmetodos.Llave;
+package co.edu.sena.clases.visibilidadmetodos;
 
 /**
  *
@@ -19,14 +15,13 @@ public class NewMain {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Billetera b1 = new Billetera();
-        b1.color= "negro";
+        Llave llave1 = new Llave();
+        llave1.setColor("rojo");
+        System.out.println(llave1.getColor());
         
         
-       LLaveSeguridad ll1 = new LLaveSeguridad();
+        LLaveSeguridad ll1 = new LLaveSeguridad();
        
-        
-        
     }
     
 }
