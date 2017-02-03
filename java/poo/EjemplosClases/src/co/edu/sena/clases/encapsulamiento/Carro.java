@@ -23,7 +23,8 @@ public class Carro {
 
     public void frenar() {
         if (this.velocidad >= 10) {
-            this.velocidad = this.velocidad - 10;
+            this.velocidad  -= 10;
+            
         }else{
             System.out.println("el carro esta quieto");
         }
