@@ -70,7 +70,7 @@ public class Bicicleta {
     public void aumentarCambioDelantero() {
         if (this.cambioDelanteroActual < this.cambioDelantero) {
             this.cambioDelanteroActual = (short) (this.cambioDelanteroActual + 1);
-           
+
         } else {
             System.out.println("estoy en el cambio maximo");
         }
@@ -80,28 +80,44 @@ public class Bicicleta {
     public void aumentarCambioTrasero() {
         if (this.cambioTraseroActual < this.cambioTrasero) {
             this.cambioTraseroActual = (short) (this.cambioTraseroActual + 1);
-            this.velocidad+=10;
+           
         } else {
             System.out.println("estoy en el cambio maximo");
         }
     }
 
     public void disminuirCambioDelantero() {
-        // TODO - implement Bicicleta.disminuirCambioDelantero
-        throw new UnsupportedOperationException();
+        if (this.cambioDelanteroActual > 1) {
+            this.cambioDelanteroActual = (short) (this.cambioDelanteroActual - 1);
+
+        } else {
+            System.out.println("estoy en el cambio delantero minimo");
+        }
     }
 
     public void disminuirCambioTrasero() {
-        // TODO - implement Bicicleta.disminuirCambioTrasero
-        throw new UnsupportedOperationException();
+        if (this.cambioTraseroActual > 1) {
+            this.cambioTraseroActual = (short) (this.cambioTraseroActual - 1);
+
+        } else {
+            System.out.println("estoy en el cambio trasero minimo");
+        }
     }
 
     public void aumentarVelocidad() {
-        this.velocidad +=10;
+        if (this.velocidad < 100) {
+            this.velocidad += 10;
+        } else {
+            System.out.println("no puedo aumentar la velocidad estoy al maximo");
+        }
     }
 
-    private void disminuirVelocidad() {
-        this.velocidad-=10;
+    public void disminuirVelocidad() {
+        if (velocidad > 0) {
+            this.velocidad -= 10;
+        } else {
+            System.out.println("no puedo disminuir la velocidad estoy quieta");
+        }
     }
 
 }

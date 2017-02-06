@@ -13,3 +13,7 @@ Diseño orientado a objetos
 7. metodos mutadores y acesores
 8. encapsulamiento
 9. visibilidad en los metodos
+10. constructor, constructor generico, constructor con parametros
+11. sobrecarga de constructores
+12. Wrappers
+12. sobrecarga de metodos
