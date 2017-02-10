@@ -10,11 +10,12 @@ package co.edu.sena.clases.constructores;
  * @author Enrique
  */
 public class Tablero {
+
     private String color;
     private String tamanio;
     private String material;
-    
-    public Tablero(){
+
+    public Tablero() {
     }
 
     public Tablero(String color, String tamanio, String material) {
@@ -32,6 +33,7 @@ public class Tablero {
     }
 
     public String getColor() {
+        int a;
         return color;
     }
 
@@ -46,10 +48,5 @@ public class Tablero {
     public void setTamanio(String tamanio) {
         this.tamanio = tamanio;
     }
-    
-    
-    
-    
-    
-    
+
 }

@@ -3,9 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package co.edu.sena.clases.constructores;
-
-import java.math.MathContext;
+package co.edu.sena.clasesrelaciones.generalizacion.automoviles;
 
 /**
  *
@@ -17,13 +15,12 @@ public class NewMain {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Tablero t1 = new Tablero("rojo", "150x300", "acrilico");
-        System.out.println(t1.getColor());
-        System.out.println(t1.getMaterial());
-        System.out.println(t1.getTamanio());
+        Camion c1 = new Camion("mazda", "azul", "123ABC", 2, "negra");
+        c1.encender();
+        
+        System.out.println();
         
         
-        Tablero t2 = new Tablero();
         
         
     }

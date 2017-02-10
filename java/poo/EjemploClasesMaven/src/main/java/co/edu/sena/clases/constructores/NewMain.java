@@ -5,6 +5,8 @@
  */
 package co.edu.sena.clases.constructores;
 
+import java.math.MathContext;
+
 /**
  *
  * @author Enrique
@@ -22,6 +24,8 @@ public class NewMain {
         
         
         Tablero t2 = new Tablero();
+        
+        
     }
     
 }

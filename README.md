@@ -4,7 +4,7 @@ ADSI Trimestre 2
 
 Diseño orientado a objetos
 
-1. Clase
+1. Clase, objeto
 2. Atributo
 3. visibilidad
 4. atributos estaticos
@@ -16,4 +16,6 @@ Diseño orientado a objetos
 10. constructor, constructor generico, constructor con parametros
 11. sobrecarga de constructores
 12. Wrappers
-12. sobrecarga de metodos
+13. sobrecarga de metodos
+14. Generalización (herencia)
+14. sobreescritura de metdos

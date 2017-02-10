@@ -15,6 +15,7 @@ public class NewMain2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
         System.out.println("INTEGER");
         System.out.println("equivalente en prmitivo "+Integer.TYPE);
         System.out.println("maximo valor: "+Integer.MAX_VALUE);
