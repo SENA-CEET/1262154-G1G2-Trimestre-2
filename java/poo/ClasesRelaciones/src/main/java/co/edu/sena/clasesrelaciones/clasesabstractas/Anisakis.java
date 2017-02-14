@@ -3,11 +3,5 @@ package co.edu.sena.clasesrelaciones.clasesabstractas;
 /**
  * Created by Enrique on 14/02/2017.
  */
-public class Perro extends Animal {
-
-    @Override
-    public void comer(){
-
-
-    }
+public class Anisakis extends Nematodos {
 }

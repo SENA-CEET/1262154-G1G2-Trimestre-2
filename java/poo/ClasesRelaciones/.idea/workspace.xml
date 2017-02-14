@@ -2,33 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bcb7fba-cdad-4b57-85f9-b093ab547626" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClasesRelaciones.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Anelidos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Aracnidos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Artropodos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Bivalvos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Cefalopodos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Celentereos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Crustaceos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Equinodermos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Gasteropodos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Gusanos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Insectos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Invertebrados.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/InvertebradosConProteccion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/InvertebradosSinProteccion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Medusas.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Miriapodos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Moluscos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Nematodos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Platelmintos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Polipos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Poriferos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Tarantula.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/TarantulaHembra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/TarantulaMacho.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Erizo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Sanguijuela.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Solitaria.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Perro.java" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Anisakis.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,32 +30,35 @@
               <ID>JAVA</ID>
               <OriginalElement>co.edu.sena.clasesrelaciones.clasesabstractas</OriginalElement>
               <nodes>
-                <node x="761.625" y="0.0">co.edu.sena.clasesrelaciones.clasesabstractas.Animal</node>
-                <node x="787.0" y="480.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaMacho</node>
-                <node x="0.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Medusas</node>
-                <node x="272.5" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion</node>
-                <node x="430.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos</node>
-                <node x="754.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Cefalopodos</node>
-                <node x="194.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos</node>
-                <node x="1208.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Insectos</node>
-                <node x="818.625" y="80.0">co.edu.sena.clasesrelaciones.clasesabstractas.Perro</node>
-                <node x="486.75" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Poriferos</node>
-                <node x="1094.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Miriapodos</node>
-                <node x="992.0" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion</node>
-                <node x="661.6298076923078" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos</node>
+                <node x="520.0" y="0.0">co.edu.sena.clasesrelaciones.clasesabstractas.Animal</node>
+                <node x="935.0" y="502.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaMacho</node>
+                <node x="0.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Medusas</node>
+                <node x="122.0" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion</node>
+                <node x="422.0" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Solitaria</node>
+                <node x="302.5" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Sanguijuela</node>
+                <node x="310.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos</node>
+                <node x="754.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Cefalopodos</node>
+                <node x="410.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos</node>
+                <node x="1356.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Insectos</node>
+                <node x="180.66666666666663" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Poriferos</node>
+                <node x="1242.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Miriapodos</node>
+                <node x="203.5" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Anisakis</node>
+                <node x="846.5" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion</node>
+                <node x="640.8290229885058" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos</node>
                 <node x="41.0" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos</node>
-                <node x="1151.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos</node>
-                <node x="927.0" y="480.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaHembra</node>
-                <node x="877.0" y="400.0">co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula</node>
-                <node x="982.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Crustaceos</node>
-                <node x="530.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gasteropodos</node>
-                <node x="314.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos</node>
-                <node x="692.625" y="80.0">co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados</node>
-                <node x="1037.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos</node>
-                <node x="101.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Polipos</node>
-                <node x="657.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos</node>
-                <node x="327.6298076923079" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos</node>
-                <node x="875.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos</node>
+                <node x="883.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos</node>
+                <node x="1075.0" y="502.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaHembra</node>
+                <node x="1025.0" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula</node>
+                <node x="1130.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Crustaceos</node>
+                <node x="530.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gasteropodos</node>
+                <node x="194.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos</node>
+                <node x="503.0" y="80.0">co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados</node>
+                <node x="1185.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos</node>
+                <node x="875.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Erizo</node>
+                <node x="101.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Polipos</node>
+                <node x="657.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos</node>
+                <node x="299.8290229885059" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos</node>
+                <node x="1023.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos</node>
               </nodes>
               <notes />
               <edges>
@@ -88,94 +70,96 @@
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Miriapodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
                   <point x="0.0" y="-15.0" />
-                  <point x="1141.0" y="300.0" />
-                  <point x="1096.25" y="300.0" />
+                  <point x="1289.0" y="300.0" />
+                  <point x="1244.25" y="300.0" />
                   <point x="11.75" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
                   <point x="0.0" y="-15.0" />
-                  <point x="704.1298076923078" y="215.0" />
-                  <point x="1022.8333333333334" y="215.0" />
+                  <point x="683.3290229885058" y="215.0" />
+                  <point x="877.3333333333334" y="215.0" />
                   <point x="-61.66666666666663" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaMacho" target="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula">
                   <point x="0.0" y="-15.0" />
-                  <point x="847.0" y="455.0" />
-                  <point x="897.75" y="455.0" />
+                  <point x="995.0" y="477.0" />
+                  <point x="1045.75" y="477.0" />
                   <point x="-20.75" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1232.5" y="215.0" />
+                  <point x="1000.6666666666666" y="215.0" />
+                  <point x="61.66666666666663" y="15.0" />
+                </edge>
+                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Sanguijuela" target="co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos">
                   <point x="0.0" y="-15.0" />
                   <point x="0.0" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
                   <point x="0.0" y="-15.0" />
-                  <point x="244.0" y="300.0" />
-                  <point x="340.7964743589746" y="300.0" />
-                  <point x="-26.333333333333314" y="15.0" />
+                  <point x="460.0" y="300.0" />
+                  <point x="365.66235632183924" y="300.0" />
+                  <point x="26.333333333333314" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Crustaceos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
                   <point x="0.0" y="-15.0" />
-                  <point x="1028.0" y="300.0" />
-                  <point x="1072.75" y="300.0" />
+                  <point x="1176.0" y="300.0" />
+                  <point x="1220.75" y="300.0" />
                   <point x="-11.75" y="15.0" />
+                </edge>
+                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Solitaria" target="co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Cefalopodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
                   <point x="0.0" y="-15.0" />
                   <point x="804.5" y="300.0" />
-                  <point x="732.4631410256412" y="300.0" />
+                  <point x="711.6623563218393" y="300.0" />
                   <point x="28.33333333333337" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
                   <point x="0.0" y="-15.0" />
                   <point x="695.5" y="300.0" />
-                  <point x="704.1298076923078" y="300.0" />
+                  <point x="683.3290229885058" y="300.0" />
                   <point x="0.0" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
                   <point x="0.0" y="-15.0" />
-                  <point x="470.0" y="300.0" />
-                  <point x="393.4631410256412" y="300.0" />
-                  <point x="26.333333333333314" y="15.0" />
+                  <point x="350.0" y="300.0" />
+                  <point x="339.3290229885059" y="300.0" />
+                  <point x="0.0" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Gasteropodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
                   <point x="0.0" y="-15.0" />
                   <point x="583.5" y="300.0" />
-                  <point x="675.7964743589745" y="300.0" />
+                  <point x="654.9956896551726" y="300.0" />
                   <point x="-28.33333333333337" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados" target="co.edu.sena.clasesrelaciones.clasesabstractas.Animal">
                   <point x="0.0" y="-15.0" />
-                  <point x="745.625" y="55.0" />
-                  <point x="779.625" y="55.0" />
-                  <point x="-18.0" y="15.0" />
+                  <point x="0.0" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
                   <point x="0.0" y="-15.0" />
                   <point x="89.0" y="215.0" />
-                  <point x="302.3333333333333" y="215.0" />
+                  <point x="151.83333333333331" y="215.0" />
                   <point x="-59.666666666666686" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Insectos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
                   <point x="0.0" y="-15.0" />
-                  <point x="1246.5" y="290.0" />
-                  <point x="1119.75" y="290.0" />
+                  <point x="1394.5" y="290.0" />
+                  <point x="1267.75" y="290.0" />
                   <point x="35.25" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula" target="co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos">
                   <point x="0.0" y="-15.0" />
                   <point x="0.0" y="15.0" />
                 </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Perro" target="co.edu.sena.clasesrelaciones.clasesabstractas.Animal">
-                  <point x="0.0" y="-15.0" />
-                  <point x="849.625" y="55.0" />
-                  <point x="815.625" y="55.0" />
-                  <point x="18.0" y="15.0" />
-                </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion" target="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados">
                   <point x="0.0" y="-15.0" />
-                  <point x="1084.5" y="135.0" />
-                  <point x="772.125" y="135.0" />
+                  <point x="939.0" y="135.0" />
+                  <point x="582.5" y="135.0" />
                   <point x="26.5" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Medusas" target="co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos">
@@ -186,54 +170,105 @@
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaHembra" target="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula">
                   <point x="0.0" y="-15.0" />
-                  <point x="990.0" y="455.0" />
-                  <point x="939.25" y="455.0" />
+                  <point x="1138.0" y="477.0" />
+                  <point x="1087.25" y="477.0" />
                   <point x="20.75" y="15.0" />
+                </edge>
+                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Erizo" target="co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos">
+                  <point x="0.0" y="-26.0" />
+                  <point x="0.0" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
                   <point x="0.0" y="-15.0" />
-                  <point x="367.1298076923079" y="215.0" />
-                  <point x="362.0" y="215.0" />
-                  <point x="0.0" y="15.0" />
+                  <point x="339.3290229885059" y="215.0" />
+                  <point x="271.16666666666663" y="215.0" />
+                  <point x="59.66666666666663" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
                   <point x="0.0" y="-15.0" />
-                  <point x="1207.0" y="215.0" />
-                  <point x="1146.1666666666667" y="215.0" />
-                  <point x="61.66666666666674" y="15.0" />
+                  <point x="0.0" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion" target="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados">
                   <point x="0.0" y="-15.0" />
-                  <point x="362.0" y="135.0" />
-                  <point x="719.125" y="135.0" />
+                  <point x="211.5" y="135.0" />
+                  <point x="529.5" y="135.0" />
                   <point x="-26.5" y="15.0" />
+                </edge>
+                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Anisakis" target="co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
                   <point x="0.0" y="-15.0" />
-                  <point x="918.5" y="290.0" />
-                  <point x="1049.25" y="290.0" />
+                  <point x="1066.5" y="290.0" />
+                  <point x="1197.25" y="290.0" />
                   <point x="-35.25" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
                   <point x="0.0" y="-15.0" />
-                  <point x="362.0" y="300.0" />
-                  <point x="367.1298076923079" y="300.0" />
-                  <point x="0.0" y="15.0" />
+                  <point x="242.0" y="300.0" />
+                  <point x="312.9956896551726" y="300.0" />
+                  <point x="-26.33333333333333" y="15.0" />
                 </edge>
                 <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Poriferos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
                   <point x="0.0" y="-15.0" />
-                  <point x="527.25" y="215.0" />
-                  <point x="421.66666666666663" y="215.0" />
-                  <point x="59.66666666666663" y="15.0" />
+                  <point x="221.16666666666663" y="215.0" />
+                  <point x="211.5" y="215.0" />
+                  <point x="0.0" y="15.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="0.8061302681992337" x="642.5" y="255.0" />
+              <settings layout="Hierarchic Group" zoom="0.7240192704748796" x="716.5" y="277.0" />
               <SelectedNodes>
-                <node>co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos</node>
+                <node>co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion</node>
               </SelectedNodes>
-              <Categories />
+              <Categories>
+                <Category>Methods</Category>
+              </Categories>
               <SCOPE>All</SCOPE>
               <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Erizo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Erizo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Anisakis.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Anisakis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solitaria.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Solitaria.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -288,36 +323,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nematodos.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Nematodos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Anelidos.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Anelidos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gusanos.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Gusanos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -345,7 +350,6 @@
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Perro.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Artropodos.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Invertebrados.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/InvertebradosConProteccion.java" />
@@ -370,6 +374,11 @@
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Medusas.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Polipos.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Poriferos.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Erizo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Sanguijuela.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Anisakis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Solitaria.java" />
       </list>
     </option>
   </component>
@@ -976,12 +985,12 @@
       <workItem from="1486851550503" duration="659000" />
       <workItem from="1487001793822" duration="3793000" />
       <workItem from="1487087936940" duration="877000" />
-      <workItem from="1487089553044" duration="2330000" />
+      <workItem from="1487089553044" duration="3691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7659000" />
+    <option name="totallyTimeSpent" value="9020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1033,14 +1042,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="76" column="31" lean-forward="false" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1211,14 +1212,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1415,38 +1408,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Erizo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Sanguijuela.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Anisakis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Solitaria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="uml://JAVA/co.edu.sena.clasesrelaciones.clasesabstractas">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
           <OriginalElement>co.edu.sena.clasesrelaciones.clasesabstractas</OriginalElement>
           <nodes>
-            <node x="761.625" y="0.0">co.edu.sena.clasesrelaciones.clasesabstractas.Animal</node>
-            <node x="787.0" y="480.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaMacho</node>
-            <node x="0.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Medusas</node>
-            <node x="272.5" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion</node>
-            <node x="430.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos</node>
-            <node x="754.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Cefalopodos</node>
-            <node x="194.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos</node>
-            <node x="1208.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Insectos</node>
-            <node x="818.625" y="80.0">co.edu.sena.clasesrelaciones.clasesabstractas.Perro</node>
-            <node x="486.75" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Poriferos</node>
-            <node x="1094.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Miriapodos</node>
-            <node x="992.0" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion</node>
-            <node x="661.6298076923078" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos</node>
+            <node x="520.0" y="0.0">co.edu.sena.clasesrelaciones.clasesabstractas.Animal</node>
+            <node x="935.0" y="502.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaMacho</node>
+            <node x="0.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Medusas</node>
+            <node x="122.0" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion</node>
+            <node x="422.0" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Solitaria</node>
+            <node x="302.5" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Sanguijuela</node>
+            <node x="310.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos</node>
+            <node x="754.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Cefalopodos</node>
+            <node x="410.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos</node>
+            <node x="1356.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Insectos</node>
+            <node x="180.66666666666663" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Poriferos</node>
+            <node x="1242.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Miriapodos</node>
+            <node x="203.5" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Anisakis</node>
+            <node x="846.5" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion</node>
+            <node x="640.8290229885058" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos</node>
             <node x="41.0" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos</node>
-            <node x="1151.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos</node>
-            <node x="927.0" y="480.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaHembra</node>
-            <node x="877.0" y="400.0">co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula</node>
-            <node x="982.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Crustaceos</node>
-            <node x="530.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gasteropodos</node>
-            <node x="314.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos</node>
-            <node x="692.625" y="80.0">co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados</node>
-            <node x="1037.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos</node>
-            <node x="101.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Polipos</node>
-            <node x="657.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos</node>
-            <node x="327.6298076923079" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos</node>
-            <node x="875.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos</node>
+            <node x="883.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos</node>
+            <node x="1075.0" y="502.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaHembra</node>
+            <node x="1025.0" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula</node>
+            <node x="1130.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Crustaceos</node>
+            <node x="530.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gasteropodos</node>
+            <node x="194.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos</node>
+            <node x="503.0" y="80.0">co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados</node>
+            <node x="1185.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos</node>
+            <node x="875.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Erizo</node>
+            <node x="101.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Polipos</node>
+            <node x="657.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos</node>
+            <node x="299.8290229885059" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos</node>
+            <node x="1023.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos</node>
           </nodes>
           <notes />
           <edges>
@@ -1458,94 +1497,96 @@
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Miriapodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
               <point x="0.0" y="-15.0" />
-              <point x="1141.0" y="300.0" />
-              <point x="1096.25" y="300.0" />
+              <point x="1289.0" y="300.0" />
+              <point x="1244.25" y="300.0" />
               <point x="11.75" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
               <point x="0.0" y="-15.0" />
-              <point x="704.1298076923078" y="215.0" />
-              <point x="1022.8333333333334" y="215.0" />
+              <point x="683.3290229885058" y="215.0" />
+              <point x="877.3333333333334" y="215.0" />
               <point x="-61.66666666666663" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaMacho" target="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula">
               <point x="0.0" y="-15.0" />
-              <point x="847.0" y="455.0" />
-              <point x="897.75" y="455.0" />
+              <point x="995.0" y="477.0" />
+              <point x="1045.75" y="477.0" />
               <point x="-20.75" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
+              <point x="0.0" y="-15.0" />
+              <point x="1232.5" y="215.0" />
+              <point x="1000.6666666666666" y="215.0" />
+              <point x="61.66666666666663" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Sanguijuela" target="co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos">
               <point x="0.0" y="-15.0" />
               <point x="0.0" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
               <point x="0.0" y="-15.0" />
-              <point x="244.0" y="300.0" />
-              <point x="340.7964743589746" y="300.0" />
-              <point x="-26.333333333333314" y="15.0" />
+              <point x="460.0" y="300.0" />
+              <point x="365.66235632183924" y="300.0" />
+              <point x="26.333333333333314" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Crustaceos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
               <point x="0.0" y="-15.0" />
-              <point x="1028.0" y="300.0" />
-              <point x="1072.75" y="300.0" />
+              <point x="1176.0" y="300.0" />
+              <point x="1220.75" y="300.0" />
               <point x="-11.75" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Solitaria" target="co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Cefalopodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
               <point x="0.0" y="-15.0" />
               <point x="804.5" y="300.0" />
-              <point x="732.4631410256412" y="300.0" />
+              <point x="711.6623563218393" y="300.0" />
               <point x="28.33333333333337" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
               <point x="0.0" y="-15.0" />
               <point x="695.5" y="300.0" />
-              <point x="704.1298076923078" y="300.0" />
+              <point x="683.3290229885058" y="300.0" />
               <point x="0.0" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
               <point x="0.0" y="-15.0" />
-              <point x="470.0" y="300.0" />
-              <point x="393.4631410256412" y="300.0" />
-              <point x="26.333333333333314" y="15.0" />
+              <point x="350.0" y="300.0" />
+              <point x="339.3290229885059" y="300.0" />
+              <point x="0.0" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Gasteropodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
               <point x="0.0" y="-15.0" />
               <point x="583.5" y="300.0" />
-              <point x="675.7964743589745" y="300.0" />
+              <point x="654.9956896551726" y="300.0" />
               <point x="-28.33333333333337" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados" target="co.edu.sena.clasesrelaciones.clasesabstractas.Animal">
               <point x="0.0" y="-15.0" />
-              <point x="745.625" y="55.0" />
-              <point x="779.625" y="55.0" />
-              <point x="-18.0" y="15.0" />
+              <point x="0.0" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
               <point x="0.0" y="-15.0" />
               <point x="89.0" y="215.0" />
-              <point x="302.3333333333333" y="215.0" />
+              <point x="151.83333333333331" y="215.0" />
               <point x="-59.666666666666686" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Insectos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
               <point x="0.0" y="-15.0" />
-              <point x="1246.5" y="290.0" />
-              <point x="1119.75" y="290.0" />
+              <point x="1394.5" y="290.0" />
+              <point x="1267.75" y="290.0" />
               <point x="35.25" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula" target="co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos">
               <point x="0.0" y="-15.0" />
               <point x="0.0" y="15.0" />
             </edge>
-            <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Perro" target="co.edu.sena.clasesrelaciones.clasesabstractas.Animal">
-              <point x="0.0" y="-15.0" />
-              <point x="849.625" y="55.0" />
-              <point x="815.625" y="55.0" />
-              <point x="18.0" y="15.0" />
-            </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion" target="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados">
               <point x="0.0" y="-15.0" />
-              <point x="1084.5" y="135.0" />
-              <point x="772.125" y="135.0" />
+              <point x="939.0" y="135.0" />
+              <point x="582.5" y="135.0" />
               <point x="26.5" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Medusas" target="co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos">
@@ -1556,52 +1597,60 @@
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaHembra" target="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula">
               <point x="0.0" y="-15.0" />
-              <point x="990.0" y="455.0" />
-              <point x="939.25" y="455.0" />
+              <point x="1138.0" y="477.0" />
+              <point x="1087.25" y="477.0" />
               <point x="20.75" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Erizo" target="co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
               <point x="0.0" y="-15.0" />
-              <point x="367.1298076923079" y="215.0" />
-              <point x="362.0" y="215.0" />
-              <point x="0.0" y="15.0" />
+              <point x="339.3290229885059" y="215.0" />
+              <point x="271.16666666666663" y="215.0" />
+              <point x="59.66666666666663" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
               <point x="0.0" y="-15.0" />
-              <point x="1207.0" y="215.0" />
-              <point x="1146.1666666666667" y="215.0" />
-              <point x="61.66666666666674" y="15.0" />
+              <point x="0.0" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion" target="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados">
               <point x="0.0" y="-15.0" />
-              <point x="362.0" y="135.0" />
-              <point x="719.125" y="135.0" />
+              <point x="211.5" y="135.0" />
+              <point x="529.5" y="135.0" />
               <point x="-26.5" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Anisakis" target="co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
               <point x="0.0" y="-15.0" />
-              <point x="918.5" y="290.0" />
-              <point x="1049.25" y="290.0" />
+              <point x="1066.5" y="290.0" />
+              <point x="1197.25" y="290.0" />
               <point x="-35.25" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
               <point x="0.0" y="-15.0" />
-              <point x="362.0" y="300.0" />
-              <point x="367.1298076923079" y="300.0" />
-              <point x="0.0" y="15.0" />
+              <point x="242.0" y="300.0" />
+              <point x="312.9956896551726" y="300.0" />
+              <point x="-26.33333333333333" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Poriferos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
               <point x="0.0" y="-15.0" />
-              <point x="527.25" y="215.0" />
-              <point x="421.66666666666663" y="215.0" />
-              <point x="59.66666666666663" y="15.0" />
+              <point x="221.16666666666663" y="215.0" />
+              <point x="211.5" y="215.0" />
+              <point x="0.0" y="15.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.8061302681992337" x="642.5" y="255.0" />
+          <settings layout="Hierarchic Group" zoom="0.7240192704748796" x="716.5" y="277.0" />
           <SelectedNodes>
-            <node>co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos</node>
+            <node>co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion</node>
           </SelectedNodes>
-          <Categories />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
