@@ -73,5 +73,6 @@ public abstract class Automovil {
     public void setSillas(int sillas) {
         this.sillas = sillas;
     }
-    
+
+    public abstract void correr();
 }

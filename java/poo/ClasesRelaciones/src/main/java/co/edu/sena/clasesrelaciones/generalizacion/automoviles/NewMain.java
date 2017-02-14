@@ -15,10 +15,8 @@ public class NewMain {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Camion c1 = new Camion("mazda", "azul", "123ABC", 2, "negra");
-        c1.encender();
-        
-        System.out.println();
+
+
         
         
         
