@@ -12,7 +12,11 @@ package co.edu.sena.clasesrelaciones.generalizacion.automoviles;
 public class Camion extends Automovil{
 
     private String colorCarpa;
-    
+
+    public Camion() {
+
+    }
+
     public Camion(String marca, String color, String placa, int silla, String colorCarpa){
     	super(marca, color, placa, silla);
     	this.colorCarpa =colorCarpa;

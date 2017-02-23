@@ -14,12 +14,14 @@ public class Buseta extends Automovil{
     private String tableroRuta;
     private boolean  timbre;
 
-    public Buseta(String marca, String color, String placa, int sillas, int registradora, String tableroRuta, boolean timbre) {
+    public  Buseta(String marca, String color, String placa, int sillas, int registradora, String tableroRuta, boolean timbre) {
         super(marca, color, placa, sillas);
         this.registradora =registradora;
         this.tableroRuta = tableroRuta;
         this.timbre = timbre;
     }
+
+
     
     public void abrePuerta(){
     	System.out.println("abro la puerta");

@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bcb7fba-cdad-4b57-85f9-b093ab547626" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Erizo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Sanguijuela.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Solitaria.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/dependencia/Ejemplo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/dependencia/Perro.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/BusetaDosPisos.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Ejemplo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Ejemplo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../README.md" afterPath="$PROJECT_DIR$/../../../README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Perro.java" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Anisakis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Erizo.java" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Erizo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Buseta.java" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Buseta.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Camion.java" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Camion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java" afterPath="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,301 +29,83 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JAVA/co.edu.sena.clasesrelaciones.clasesabstractas" pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/co.edu.sena.clasesrelaciones.clasesabstractas">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>co.edu.sena.clasesrelaciones.clasesabstractas</OriginalElement>
-              <nodes>
-                <node x="520.0" y="0.0">co.edu.sena.clasesrelaciones.clasesabstractas.Animal</node>
-                <node x="935.0" y="502.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaMacho</node>
-                <node x="0.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Medusas</node>
-                <node x="122.0" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion</node>
-                <node x="422.0" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Solitaria</node>
-                <node x="302.5" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Sanguijuela</node>
-                <node x="310.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos</node>
-                <node x="754.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Cefalopodos</node>
-                <node x="410.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos</node>
-                <node x="1356.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Insectos</node>
-                <node x="180.66666666666663" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Poriferos</node>
-                <node x="1242.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Miriapodos</node>
-                <node x="203.5" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Anisakis</node>
-                <node x="846.5" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion</node>
-                <node x="640.8290229885058" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos</node>
-                <node x="41.0" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos</node>
-                <node x="883.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos</node>
-                <node x="1075.0" y="502.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaHembra</node>
-                <node x="1025.0" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula</node>
-                <node x="1130.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Crustaceos</node>
-                <node x="530.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gasteropodos</node>
-                <node x="194.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos</node>
-                <node x="503.0" y="80.0">co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados</node>
-                <node x="1185.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos</node>
-                <node x="875.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Erizo</node>
-                <node x="101.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Polipos</node>
-                <node x="657.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos</node>
-                <node x="299.8290229885059" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos</node>
-                <node x="1023.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Polipos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="137.5" y="300.0" />
-                  <point x="113.0" y="300.0" />
-                  <point x="24.0" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Miriapodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="1289.0" y="300.0" />
-                  <point x="1244.25" y="300.0" />
-                  <point x="11.75" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
-                  <point x="0.0" y="-15.0" />
-                  <point x="683.3290229885058" y="215.0" />
-                  <point x="877.3333333333334" y="215.0" />
-                  <point x="-61.66666666666663" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaMacho" target="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula">
-                  <point x="0.0" y="-15.0" />
-                  <point x="995.0" y="477.0" />
-                  <point x="1045.75" y="477.0" />
-                  <point x="-20.75" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
-                  <point x="0.0" y="-15.0" />
-                  <point x="1232.5" y="215.0" />
-                  <point x="1000.6666666666666" y="215.0" />
-                  <point x="61.66666666666663" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Sanguijuela" target="co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="460.0" y="300.0" />
-                  <point x="365.66235632183924" y="300.0" />
-                  <point x="26.333333333333314" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Crustaceos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="1176.0" y="300.0" />
-                  <point x="1220.75" y="300.0" />
-                  <point x="-11.75" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Solitaria" target="co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Cefalopodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="804.5" y="300.0" />
-                  <point x="711.6623563218393" y="300.0" />
-                  <point x="28.33333333333337" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="695.5" y="300.0" />
-                  <point x="683.3290229885058" y="300.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="350.0" y="300.0" />
-                  <point x="339.3290229885059" y="300.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Gasteropodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="583.5" y="300.0" />
-                  <point x="654.9956896551726" y="300.0" />
-                  <point x="-28.33333333333337" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados" target="co.edu.sena.clasesrelaciones.clasesabstractas.Animal">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
-                  <point x="0.0" y="-15.0" />
-                  <point x="89.0" y="215.0" />
-                  <point x="151.83333333333331" y="215.0" />
-                  <point x="-59.666666666666686" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Insectos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="1394.5" y="290.0" />
-                  <point x="1267.75" y="290.0" />
-                  <point x="35.25" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula" target="co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion" target="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados">
-                  <point x="0.0" y="-15.0" />
-                  <point x="939.0" y="135.0" />
-                  <point x="582.5" y="135.0" />
-                  <point x="26.5" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Medusas" target="co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="40.5" y="300.0" />
-                  <point x="65.0" y="300.0" />
-                  <point x="-24.0" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaHembra" target="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula">
-                  <point x="0.0" y="-15.0" />
-                  <point x="1138.0" y="477.0" />
-                  <point x="1087.25" y="477.0" />
-                  <point x="20.75" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Erizo" target="co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos">
-                  <point x="0.0" y="-26.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
-                  <point x="0.0" y="-15.0" />
-                  <point x="339.3290229885059" y="215.0" />
-                  <point x="271.16666666666663" y="215.0" />
-                  <point x="59.66666666666663" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion" target="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados">
-                  <point x="0.0" y="-15.0" />
-                  <point x="211.5" y="135.0" />
-                  <point x="529.5" y="135.0" />
-                  <point x="-26.5" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Anisakis" target="co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="1066.5" y="290.0" />
-                  <point x="1197.25" y="290.0" />
-                  <point x="-35.25" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
-                  <point x="0.0" y="-15.0" />
-                  <point x="242.0" y="300.0" />
-                  <point x="312.9956896551726" y="300.0" />
-                  <point x="-26.33333333333333" y="15.0" />
-                </edge>
-                <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Poriferos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
-                  <point x="0.0" y="-15.0" />
-                  <point x="221.16666666666663" y="215.0" />
-                  <point x="211.5" y="215.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.7240192704748796" x="716.5" y="277.0" />
-              <SelectedNodes>
-                <node>co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Methods</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Erizo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Erizo.java">
+      <file leaf-file-name="NewMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="612">
+              <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
               <folding>
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java">
+      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25058">
+              <caret line="1561" column="20" lean-forward="false" selection-start-line="1561" selection-start-column="20" selection-end-line="1561" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ejemplo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Ejemplo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ejemplo2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Ejemplo2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Anisakis.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Anisakis.java">
+      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Math.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            <state relative-caret-position="1326">
+              <caret line="104" column="12" lean-forward="false" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solitaria.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Solitaria.java">
+      <file leaf-file-name="Automovil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state relative-caret-position="476">
+              <caret line="32" column="10" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Celentereos.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Celentereos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Medusas.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Medusas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Polipos.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Polipos.java">
+      <file leaf-file-name="Buseta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Buseta.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Poriferos.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Poriferos.java">
+      <file leaf-file-name="BusetaDosPisos.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/BusetaDosPisos.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Platelmintos.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Platelmintos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -347,8 +135,6 @@
         <option value="$PROJECT_DIR$/src/test/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/AutomovilTest.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/BusetaTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Perro.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Artropodos.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Invertebrados.java" />
@@ -374,11 +160,21 @@
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Medusas.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Polipos.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Poriferos.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Erizo.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Sanguijuela.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Anisakis.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Solitaria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Erizo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/dependencia/Ejemplo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Camion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/dependencia/Perro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/ejemplo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Buseta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/BusetaDosPisos.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Ejemplo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Ejemplo2.java" />
       </list>
     </option>
   </component>
@@ -400,7 +196,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1370" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -421,79 +217,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClasesRelaciones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClasesRelaciones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClasesRelaciones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClasesRelaciones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClasesRelaciones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClasesRelaciones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clasesrelaciones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="ClasesRelaciones">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -520,22 +243,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="ClasesRelaciones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ClasesRelaciones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="co.edu.sena.clasesrelaciones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clasesabstractas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            <PATH_ELEMENT USER_OBJECT="ClasesRelaciones">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -571,6 +305,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="co.edu.sena.clasesrelaciones.generalizacion.automoviles.NewMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ClasesRelaciones" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="co.edu.sena.clasesrelaciones.generalizacion.automoviles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="co.edu.sena.clasesrelaciones.generalizacion.automoviles.Ejemplo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -963,12 +717,14 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.NewMain" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Ejemplo" />
     </list>
     <recent_temporary>
-      <list size="1">
+      <list size="2">
         <item index="0" class="java.lang.String" itemvalue="Application.NewMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Ejemplo" />
       </list>
     </recent_temporary>
   </component>
@@ -985,16 +741,21 @@
       <workItem from="1486851550503" duration="659000" />
       <workItem from="1487001793822" duration="3793000" />
       <workItem from="1487087936940" duration="877000" />
-      <workItem from="1487089553044" duration="3691000" />
+      <workItem from="1487089553044" duration="4004000" />
+      <workItem from="1487173828999" duration="2275000" />
+      <workItem from="1487260036995" duration="8784000" />
+      <workItem from="1487345679743" duration="5088000" />
+      <workItem from="1487604475465" duration="685000" />
+      <workItem from="1487883136526" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9020000" />
+    <option name="totallyTimeSpent" value="26194000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1005,19 +766,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.204236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21832061" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1034,103 +795,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="a" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Perro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Camion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="76" column="31" lean-forward="false" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Camion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Buseta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/BusetaTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/AutomovilTest.groovy" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Buseta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1183,44 +862,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Camion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/BusetaTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="76" column="31" lean-forward="false" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Perro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Perro.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Artropodos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1228,7 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1236,7 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1244,7 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1252,7 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="69" lean-forward="false" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1260,7 +903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1268,7 +910,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1276,7 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1284,7 +924,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1292,7 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1300,7 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1308,7 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1316,7 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1324,7 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1332,7 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1340,7 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1348,7 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1356,7 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1364,7 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1372,7 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1380,7 +1008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1388,15 +1015,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Polipos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1404,18 +1029,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/clasesabstractas/Erizo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1423,7 +1043,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1431,7 +1050,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1439,7 +1057,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1447,6 +1064,156 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/dependencia/Perro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/dependencia/Ejemplo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/co.edu.sena.clasesrelaciones.dependencia">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>co.edu.sena.clasesrelaciones.dependencia</OriginalElement>
+          <nodes>
+            <node x="" y="">co.edu.sena.clasesrelaciones.dependencia.Ejemplo1</node>
+            <node x="" y="">co.edu.sena.clasesrelaciones.dependencia.Perro</node>
+            <node x="" y="">co.edu.sena.clasesrelaciones.generalizacion.automoviles.Automovil</node>
+            <node x="" y="">co.edu.sena.clasesrelaciones.generalizacion.automoviles.Camion</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="42.0" y="53.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="110" column="16" lean-forward="false" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="105" column="18" lean-forward="false" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Camion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Automovil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" column="10" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Buseta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/co.edu.sena.clasesrelaciones.generalizacion.automoviles">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>co.edu.sena.clasesrelaciones.generalizacion.automoviles</OriginalElement>
+          <nodes>
+            <node x="208.5" y="80.0">co.edu.sena.clasesrelaciones.generalizacion.automoviles.Taxi</node>
+            <node x="23.5" y="80.0">co.edu.sena.clasesrelaciones.generalizacion.automoviles.Buseta</node>
+            <node x="0.0" y="160.0">co.edu.sena.clasesrelaciones.generalizacion.automoviles.BusetaDosPisos</node>
+            <node x="105.5" y="0.0">co.edu.sena.clasesrelaciones.generalizacion.automoviles.Automovil</node>
+            <node x="112.5" y="80.0">co.edu.sena.clasesrelaciones.generalizacion.automoviles.Camion</node>
+            <node x="130.0" y="235.0">co.edu.sena.clasesrelaciones.generalizacion.automoviles.Ejemplo</node>
+            <node x="0.0" y="235.0">co.edu.sena.clasesrelaciones.generalizacion.automoviles.NewMain</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="co.edu.sena.clasesrelaciones.generalizacion.automoviles.Buseta" target="co.edu.sena.clasesrelaciones.generalizacion.automoviles.Automovil">
+              <point x="0.0" y="-15.0" />
+              <point x="58.0" y="55.0" />
+              <point x="120.5" y="55.0" />
+              <point x="-30.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.clasesrelaciones.generalizacion.automoviles.BusetaDosPisos" target="co.edu.sena.clasesrelaciones.generalizacion.automoviles.Buseta">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.clasesrelaciones.generalizacion.automoviles.Taxi" target="co.edu.sena.clasesrelaciones.generalizacion.automoviles.Automovil">
+              <point x="0.0" y="-15.0" />
+              <point x="236.0" y="55.0" />
+              <point x="180.5" y="55.0" />
+              <point x="30.0" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.clasesrelaciones.generalizacion.automoviles.Camion" target="co.edu.sena.clasesrelaciones.generalizacion.automoviles.Automovil">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-149.0" y="95.0" />
+          <SelectedNodes>
+            <node>co.edu.sena.clasesrelaciones.generalizacion.automoviles.BusetaDosPisos</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="104" column="12" lean-forward="false" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/BusetaDosPisos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Ejemplo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25058">
+          <caret line="1561" column="20" lean-forward="false" selection-start-line="1561" selection-start-column="20" selection-end-line="1561" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1457,35 +1224,35 @@
           <ID>JAVA</ID>
           <OriginalElement>co.edu.sena.clasesrelaciones.clasesabstractas</OriginalElement>
           <nodes>
-            <node x="520.0" y="0.0">co.edu.sena.clasesrelaciones.clasesabstractas.Animal</node>
-            <node x="935.0" y="502.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaMacho</node>
-            <node x="0.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Medusas</node>
+            <node x="502.75000000000006" y="0.0">co.edu.sena.clasesrelaciones.clasesabstractas.Animal</node>
+            <node x="1009.0" y="480.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaMacho</node>
+            <node x="0.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Medusas</node>
             <node x="122.0" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion</node>
-            <node x="422.0" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Solitaria</node>
-            <node x="302.5" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Sanguijuela</node>
-            <node x="310.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos</node>
-            <node x="754.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Cefalopodos</node>
-            <node x="410.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos</node>
-            <node x="1356.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Insectos</node>
-            <node x="180.66666666666663" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Poriferos</node>
-            <node x="1242.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Miriapodos</node>
-            <node x="203.5" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Anisakis</node>
-            <node x="846.5" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion</node>
-            <node x="640.8290229885058" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos</node>
+            <node x="422.00000000000006" y="400.0">co.edu.sena.clasesrelaciones.clasesabstractas.Solitaria</node>
+            <node x="302.50000000000006" y="400.0">co.edu.sena.clasesrelaciones.clasesabstractas.Sanguijuela</node>
+            <node x="312.65642994241847" y="333.2821497120921">co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos</node>
+            <node x="627.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Cefalopodos</node>
+            <node x="410.00000000000006" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos</node>
+            <node x="1173.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Insectos</node>
+            <node x="180.27873563218395" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Poriferos</node>
+            <node x="1270.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Miriapodos</node>
+            <node x="812.0" y="160.0">co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion</node>
+            <node x="203.50000000000006" y="400.0">co.edu.sena.clasesrelaciones.clasesabstractas.Anisakis</node>
+            <node x="633.6307471264369" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos</node>
+            <node x="849.0" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos</node>
+            <node x="863.0" y="480.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaHembra</node>
+            <node x="956.0" y="400.0">co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula</node>
             <node x="41.0" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos</node>
-            <node x="883.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos</node>
-            <node x="1075.0" y="502.0">co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaHembra</node>
-            <node x="1025.0" y="422.0">co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula</node>
-            <node x="1130.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Crustaceos</node>
-            <node x="530.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gasteropodos</node>
-            <node x="194.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos</node>
-            <node x="503.0" y="80.0">co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados</node>
-            <node x="1185.5" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos</node>
+            <node x="1061.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Crustaceos</node>
+            <node x="748.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gasteropodos</node>
+            <node x="485.75000000000006" y="80.0">co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados</node>
+            <node x="194.00000000000006" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos</node>
+            <node x="1112.25" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos</node>
+            <node x="101.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Polipos</node>
             <node x="875.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Erizo</node>
-            <node x="101.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Polipos</node>
-            <node x="657.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos</node>
-            <node x="299.8290229885059" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos</node>
-            <node x="1023.0" y="331.0">co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos</node>
+            <node x="530.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos</node>
+            <node x="303.1307471264369" y="240.0">co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos</node>
+            <node x="954.0" y="320.0">co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos</node>
           </nodes>
           <notes />
           <edges>
@@ -1497,42 +1264,42 @@
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Miriapodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
               <point x="0.0" y="-15.0" />
-              <point x="1289.0" y="300.0" />
-              <point x="1244.25" y="300.0" />
-              <point x="11.75" y="15.0" />
+              <point x="1317.0" y="290.0" />
+              <point x="1194.5" y="290.0" />
+              <point x="35.25" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
+              <point x="0.0" y="-15.0" />
+              <point x="1159.25" y="215.0" />
+              <point x="966.1666666666667" y="215.0" />
+              <point x="61.66666666666663" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
               <point x="0.0" y="-15.0" />
-              <point x="683.3290229885058" y="215.0" />
-              <point x="877.3333333333334" y="215.0" />
+              <point x="676.1307471264369" y="215.0" />
+              <point x="842.8333333333335" y="215.0" />
               <point x="-61.66666666666663" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaMacho" target="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula">
               <point x="0.0" y="-15.0" />
-              <point x="995.0" y="477.0" />
-              <point x="1045.75" y="477.0" />
-              <point x="-20.75" y="15.0" />
+              <point x="1069.0" y="455.0" />
+              <point x="1018.25" y="455.0" />
+              <point x="20.75" y="15.0" />
             </edge>
-            <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion">
+            <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
               <point x="0.0" y="-15.0" />
-              <point x="1232.5" y="215.0" />
-              <point x="1000.6666666666666" y="215.0" />
-              <point x="61.66666666666663" y="15.0" />
+              <point x="460.00000000000006" y="300.0" />
+              <point x="368.96408045977023" y="300.0" />
+              <point x="26.333333333333314" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Sanguijuela" target="co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos">
               <point x="0.0" y="-15.0" />
               <point x="0.0" y="15.0" />
             </edge>
-            <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
-              <point x="0.0" y="-15.0" />
-              <point x="460.0" y="300.0" />
-              <point x="365.66235632183924" y="300.0" />
-              <point x="26.333333333333314" y="15.0" />
-            </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Crustaceos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
               <point x="0.0" y="-15.0" />
-              <point x="1176.0" y="300.0" />
-              <point x="1220.75" y="300.0" />
+              <point x="1107.0" y="300.0" />
+              <point x="1147.5" y="300.0" />
               <point x="-11.75" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Solitaria" target="co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos">
@@ -1541,27 +1308,27 @@
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Cefalopodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
               <point x="0.0" y="-15.0" />
-              <point x="804.5" y="300.0" />
-              <point x="711.6623563218393" y="300.0" />
-              <point x="28.33333333333337" y="15.0" />
+              <point x="677.5" y="300.0" />
+              <point x="676.1307471264369" y="300.0" />
+              <point x="0.0" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Bivalvos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
               <point x="0.0" y="-15.0" />
-              <point x="695.5" y="300.0" />
-              <point x="683.3290229885058" y="300.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
-              <point x="0.0" y="-15.0" />
-              <point x="350.0" y="300.0" />
-              <point x="339.3290229885059" y="300.0" />
-              <point x="0.0" y="15.0" />
+              <point x="568.5" y="300.0" />
+              <point x="647.7974137931035" y="300.0" />
+              <point x="-28.33333333333337" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Gasteropodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Moluscos">
               <point x="0.0" y="-15.0" />
-              <point x="583.5" y="300.0" />
-              <point x="654.9956896551726" y="300.0" />
-              <point x="-28.33333333333337" y="15.0" />
+              <point x="801.5" y="300.0" />
+              <point x="704.4640804597702" y="300.0" />
+              <point x="28.33333333333337" y="15.0" />
+            </edge>
+            <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Anelidos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
+              <point x="0.0" y="-15.0" />
+              <point x="350.00000000000006" y="300.0" />
+              <point x="342.6307471264369" y="300.0" />
+              <point x="0.0" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados" target="co.edu.sena.clasesrelaciones.clasesabstractas.Animal">
               <point x="0.0" y="-15.0" />
@@ -1570,14 +1337,14 @@
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
               <point x="0.0" y="-15.0" />
               <point x="89.0" y="215.0" />
-              <point x="151.83333333333331" y="215.0" />
-              <point x="-59.666666666666686" y="15.0" />
+              <point x="151.83333333333337" y="215.0" />
+              <point x="-59.66666666666666" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Insectos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
               <point x="0.0" y="-15.0" />
-              <point x="1394.5" y="290.0" />
-              <point x="1267.75" y="290.0" />
-              <point x="35.25" y="15.0" />
+              <point x="1211.5" y="300.0" />
+              <point x="1171.0" y="300.0" />
+              <point x="11.75" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula" target="co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos">
               <point x="0.0" y="-15.0" />
@@ -1585,8 +1352,8 @@
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosConProteccion" target="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados">
               <point x="0.0" y="-15.0" />
-              <point x="939.0" y="135.0" />
-              <point x="582.5" y="135.0" />
+              <point x="904.5" y="135.0" />
+              <point x="565.25" y="135.0" />
               <point x="26.5" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Medusas" target="co.edu.sena.clasesrelaciones.clasesabstractas.Celentereos">
@@ -1597,17 +1364,17 @@
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.TarantulaHembra" target="co.edu.sena.clasesrelaciones.clasesabstractas.Tarantula">
               <point x="0.0" y="-15.0" />
-              <point x="1138.0" y="477.0" />
-              <point x="1087.25" y="477.0" />
-              <point x="20.75" y="15.0" />
+              <point x="926.0" y="455.0" />
+              <point x="976.75" y="455.0" />
+              <point x="-20.75" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Erizo" target="co.edu.sena.clasesrelaciones.clasesabstractas.Equinodermos">
-              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="-15.0" />
               <point x="0.0" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
               <point x="0.0" y="-15.0" />
-              <point x="339.3290229885059" y="215.0" />
+              <point x="342.6307471264369" y="215.0" />
               <point x="271.16666666666663" y="215.0" />
               <point x="59.66666666666663" y="15.0" />
             </edge>
@@ -1618,7 +1385,7 @@
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion" target="co.edu.sena.clasesrelaciones.clasesabstractas.Invertebrados">
               <point x="0.0" y="-15.0" />
               <point x="211.5" y="135.0" />
-              <point x="529.5" y="135.0" />
+              <point x="512.25" y="135.0" />
               <point x="-26.5" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Anisakis" target="co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos">
@@ -1627,32 +1394,48 @@
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Aracnidos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Artropodos">
               <point x="0.0" y="-15.0" />
-              <point x="1066.5" y="290.0" />
-              <point x="1197.25" y="290.0" />
+              <point x="997.5" y="290.0" />
+              <point x="1124.0" y="290.0" />
               <point x="-35.25" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Nematodos" target="co.edu.sena.clasesrelaciones.clasesabstractas.Gusanos">
               <point x="0.0" y="-15.0" />
-              <point x="242.0" y="300.0" />
-              <point x="312.9956896551726" y="300.0" />
-              <point x="-26.33333333333333" y="15.0" />
+              <point x="242.00000000000006" y="300.0" />
+              <point x="316.2974137931036" y="300.0" />
+              <point x="-26.333333333333314" y="15.0" />
             </edge>
             <edge source="co.edu.sena.clasesrelaciones.clasesabstractas.Poriferos" target="co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion">
               <point x="0.0" y="-15.0" />
-              <point x="221.16666666666663" y="215.0" />
+              <point x="220.77873563218395" y="215.0" />
               <point x="211.5" y="215.0" />
               <point x="0.0" y="15.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.7240192704748796" x="716.5" y="277.0" />
+          <settings layout="Hierarchic Group" zoom="0.7528901734104047" x="309.0" y="205.0" />
           <SelectedNodes>
-            <node>co.edu.sena.clasesrelaciones.clasesabstractas.InvertebradosSinProteccion</node>
+            <node>co.edu.sena.clasesrelaciones.clasesabstractas.Platelmintos</node>
           </SelectedNodes>
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
+          <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/NewMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/sena/clasesrelaciones/generalizacion/automoviles/Ejemplo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

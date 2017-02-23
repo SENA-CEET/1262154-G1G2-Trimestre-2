@@ -16,6 +16,10 @@ public abstract class Automovil {
     private String placa;
     private int sillas;
 
+    public Automovil(){
+
+    }
+
     
     public Automovil(String marca, String color, String placa, int sillas) {
         this.marca = marca;
@@ -74,5 +78,5 @@ public abstract class Automovil {
         this.sillas = sillas;
     }
 
-    public abstract void correr();
+
 }

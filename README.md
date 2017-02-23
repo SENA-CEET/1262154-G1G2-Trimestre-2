@@ -18,4 +18,10 @@ Diseño orientado a objetos
 12. Wrappers
 13. sobrecarga de metodos
 14. Generalización (herencia)
-14. sobreescritura de metdos
+15. sobreescritura de metodos
+16. Polimorfismo
+17. metodos abstractos
+18. dependencia
+
+
+
