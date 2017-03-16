@@ -38,11 +38,7 @@ public class NewMain {
 
         Method metodos[] = taxi1.getClass().getMethods();
 
-        for (Method metodo: metodos
-             ) {
-            metodo.
 
-        }
 
         
         

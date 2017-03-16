@@ -13,10 +13,12 @@ public class Ejemplo2 {
         arreglosCadenas[3]= "hola mundo 4";
         arreglosCadenas[4]= "hola mundo 5";
 
+        //imperativa
         for(int i = 0; i< arreglosCadenas.length; i++){
             System.out.println(arreglosCadenas[i]);
         }
-        //foreach for para manejar objetos en arreglos o collections
+
+        //foreach for para manejar objetos en arreglos o collections declarativo
         for (String cadena: arreglosCadenas) {
             System.out.println(cadena);
         }
