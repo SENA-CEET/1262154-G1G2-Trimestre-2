@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="EjemploORMPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>co.edu.sena.ejemploorm.model.entities.Trimestre</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Disponibilidad</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Ambiente</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Modalidad</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Usuario</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Documento</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Programa</class>
+    <class>co.edu.sena.ejemploorm.model.entities.ProgramaHasCompetencia</class>
+    <class>co.edu.sena.ejemploorm.model.entities.ResultadoAprendizaje</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Especialidad</class>
+    <class>co.edu.sena.ejemploorm.model.entities.NivelFormacion</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Persona</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Horario</class>
+    <class>co.edu.sena.ejemploorm.model.entities.FichaHasTrimestre</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Instructor</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Rol</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Vinculacion</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Sede</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Jornada</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Ficha</class>
+    <class>co.edu.sena.ejemploorm.model.entities.PersonaHasRol</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Competencia</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Proyecto</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Actividad</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Dia</class>
+    <class>co.edu.sena.ejemploorm.model.entities.TrimestreActual</class>
+    <class>co.edu.sena.ejemploorm.model.entities.Fase</class>
+    <class>co.edu.sena.ejemploorm.model.entities.EstadoFicha</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:4306/horario_db2?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.password" value="123456789"/>
+    </properties>
+  </persistence-unit>
+</persistence>
